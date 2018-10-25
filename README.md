@@ -11,7 +11,7 @@ It's a Jankenpo(Rock, paper, scissor) game YOU versus HTM.
 
 In this game, the you will try to beat the Numenta's algorithm that's based on the current state of science knowlegde about intelligence and the human neocortex.
 
-The more you play, the more HTM you'll know patterns, the more it will be difficult to beat him.
+The more you play, the more HTM you'll know your patterns, the more it will be difficult to beat him.
 
 Its simple interface shows you how surprised HTM is about each of your choices(The more you play the less you'll surprise him).
 
@@ -27,7 +27,7 @@ In the future, I plan to build WEB interface and publish it in order to be avaia
 
 FRANÇAIS:
 
-Ce un jeu Jankenpo Démo basée sur HTM.Java de Numenta, où l'utilisateur joue à Jankenpo contre le framework HTM
+C'est un jeu Jankenpo Démo basée sur HTM.Java de Numenta, où l'utilisateur joue à Jankenpo contre le framework HTM
 
 Il s'agit d'un projet de démonstration (Netbeans / Java 8 / Swing) visant à présenter les fonctionnalités du framework HTM de Numenta.
 
