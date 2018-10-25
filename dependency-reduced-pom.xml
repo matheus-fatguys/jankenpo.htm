@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>br.com.petrobras</groupId>
+  <groupId>br.com.matheus.fatguys</groupId>
   <artifactId>JanKenPoHTM</artifactId>
   <name>JanKenPoHTM</name>
   <version>1.0-SNAPSHOT</version>
@@ -29,7 +29,7 @@
               </filters>
               <transformers>
                 <transformer>
-                  <mainClass>br.com.petrobras.htm.jankenpo.gui.JanKenPoDialog</mainClass>
+                  <mainClass>br.com.matheus.fatguys.htm.jankenpo.gui.JanKenPoDialog</mainClass>
                 </transformer>
               </transformers>
             </configuration>
