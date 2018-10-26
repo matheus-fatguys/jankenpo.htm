@@ -23,6 +23,7 @@ Have fun!
 
 In the future, I plan to build WEB interface and publish it in order to be avaiable online.
 
+Executable Jar Download Link: https://github.com/matheus-fatguys/jankenpo.htm/blob/master/target/JanKenPoHTM-1.0-SNAPSHOT.jar
 
 
 FRANÇAIS:
@@ -48,6 +49,8 @@ Amusez-vous!
 
 Dans l’avenir, j’ai l’intention de construire une interface Web et de la publier afin d’être disponible en ligne.
 
+Executable Jar Download Link: https://github.com/matheus-fatguys/jankenpo.htm/blob/master/target/JanKenPoHTM-1.0-SNAPSHOT.jar
+
 
 ESPANHOL
 
@@ -72,6 +75,8 @@ Diviértase!
 
 En el futuro, planeo construir una interfaz WEB y publicarla para estar disponible en línea.
 
+Executable Jar Download Link: https://github.com/matheus-fatguys/jankenpo.htm/blob/master/target/JanKenPoHTM-1.0-SNAPSHOT.jar
+
 PORTUGUÊS
 
 O Jankenpo HTM Demo é um jogo onde o usuário joga o Jankenpo contra o framework HTM da Numenta
@@ -94,6 +99,8 @@ Quando você fecha o diálogo, a rede é persisitida com o seu nome de usuário 
 Divirta-se!
 
 No futuro, planejo construir uma interface WEB e publicá-la para estar disponível on-line.
+
+Executable Jar Download Link: https://github.com/matheus-fatguys/jankenpo.htm/blob/master/target/JanKenPoHTM-1.0-SNAPSHOT.jar
 
 
 
